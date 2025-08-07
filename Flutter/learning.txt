@@ -1,0 +1,11 @@
+What is Dart?
+    Language used to make multi-platform applications
+    Dart is a statically typed Language (once a variable is created it's type cannot change)
+
+Thing we are covering in the series.
+    Dart basics- strings, integers, booleans etc
+    Functions, lists, sets, maps & control flow
+    classes & generics
+    futures & HTTP Requests
+
+Variable 
